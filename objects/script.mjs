@@ -100,7 +100,7 @@ for (let a=0;a<=patients.length;a++)
             {
                 if(patients[a][key]=='cancer')
                 {
-                    console.log(patients[a]['doctor'])
+                    alert(patients[a]['doctor'])
                 }
             }
 
